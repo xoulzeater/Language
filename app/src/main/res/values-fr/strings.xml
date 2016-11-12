@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Langue</string>
+    <string name="action_settings">Réglages</string>
+    <string name="hello_world">Bonjour tout le monde!</string>
+    <string name="nihao">你好吗？</string>
+</resources>
